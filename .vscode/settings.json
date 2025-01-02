@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "termios.h": "c",
+        "stdlib.h": "c",
+        "_stdlib.h": "c"
+    }
+}
